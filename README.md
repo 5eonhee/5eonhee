@@ -4,9 +4,6 @@
 ⚡ The goal is to fill the lawn.
 
 🌱 I’m currently learning
-
    - HTML5
- 
    - CSS3
- 
    - JavaScript
