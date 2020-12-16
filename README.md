@@ -6,5 +6,6 @@
 🌱 I’m currently learning
    - HTML5
    - CSS3
+   - SASS
    - JavaScript, jQuery
    - Git, SVN
