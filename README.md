@@ -8,4 +8,4 @@
    - CSS3
    - SASS
    - JavaScript, jQuery
-   - Git, SVN
+   - Git, SVN(TortoiseSVN)
