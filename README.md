@@ -4,13 +4,14 @@
 
 ### I’m currently learning
 
-![HTML5](http://img.shields.io/badge/Semantic%20Web-005A9C?style=for-the-badge&logo=Semantic%20Web&logoColor=white)
-![HTML5](http://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![HTML5](http://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-![HTML5](http://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
-![HTML5](http://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![HTML5](http://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)
-![HTML5](http://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+<img src="http://img.shields.io/badge/Semantic%20Web-005A9C?style=for-the-badge&logo=Semantic%20Web&logoColor=white/>
+<img src="http://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white/>
+<img src="http://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white/>
+<img src="http://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white/>
+<img src="http://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white/>
+<img src="http://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white/>
+<img src="http://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white/>
 
 ## Editor
-![HTML5](http://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+<img src="http://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white/>
+- Extention
