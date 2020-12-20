@@ -1,8 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F5eonhee%2Fhit-counter&count_bg=%23218BD7&title_bg=%239A9A9A&icon=bilibili.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-
-### I’m currently learning
+#### I’m currently learning
 
 [![Semantic Web Badge](http://img.shields.io/badge/Semantic%20Web-005A9C?style=for-the-badge&logo=Semantic%20Web&logoColor=white)
 [![HTML5 Badge](http://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
@@ -12,8 +11,7 @@
 [![jQuery Badge](http://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)
 [![GitHub Badge](http://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 
-## Editor
+#### Editor
 [![Visual Studio Code Badge](http://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
-- Extention
 Live Server, Image preview, Bracket Pair Colorizer, Highlight Matching Tag, hightlight-selections-vscode, IntelliSense for CSS class names in HTML
