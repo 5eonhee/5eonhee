@@ -13,5 +13,3 @@
 
 #### Editor
 [![Visual Studio Code Badge](http://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)](#)
-
-Live Server, Image preview, Bracket Pair Colorizer, Highlight Matching Tag, hightlight-selections-vscode, IntelliSense for CSS class names in HTML
