@@ -11,4 +11,4 @@
 ![HTML5](http://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
 ![HTML5](http://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![HTML5](http://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![HTML5](http://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white)
+![HTML5](http://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
