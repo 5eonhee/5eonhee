@@ -4,8 +4,11 @@
 ⚡ The goal is to fill the lawn.
 
 🌱 I’m currently learning
-   - HTML5
+   - [![HTML5](http://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)]
    - CSS3
    - SASS
-   - JavaScript, jQuery
+   - Javascript(jQuery)
    - Git, SVN(TortoiseSVN)
+
+
+ike Javascript, Dart, HTML5, CSS3,Responsive Web, Haroopress, Frends, Lean Startup, Open Source
