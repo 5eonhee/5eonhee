@@ -4,7 +4,7 @@
 ⚡ The goal is to fill the lawn.
 
 🌱 I’m currently learning
-   - [![HTML5](http://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)]
+   - ![HTML5](http://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
    - CSS3
    - SASS
    - Javascript(jQuery)
