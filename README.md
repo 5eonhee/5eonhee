@@ -3,7 +3,7 @@
 
 #### I’m currently learning
 
-[![Semantic Web Badge](http://img.shields.io/badge/Semantic%20Web-005A9C?style=for-the-badge&logo=Semantic%20Web&logoColor=white)]()
+[![Semantic Web Badge](http://img.shields.io/badge/Semantic%20Web-005A9C?style=for-the-badge&logo=Semantic%20Web&logoColor=white)](#)
 [![HTML5 Badge](http://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)]()
 [![CSS3 Badge](http://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)]
 [![Sass Badge](http://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)]
