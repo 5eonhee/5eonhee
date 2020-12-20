@@ -4,11 +4,11 @@
 ⚡ The goal is to fill the lawn.
 
 🌱 I’m currently learning
-   - ![HTML5](http://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-   - CSS3
-   - SASS
-   - Javascript(jQuery)
-   - Git, SVN(TortoiseSVN)
 
-
-ike Javascript, Dart, HTML5, CSS3,Responsive Web, Haroopress, Frends, Lean Startup, Open Source
+![HTML5](http://img.shields.io/badge/Semantic Web-005A9C?style=flat-square&logo=Semantic Web&logoColor=white)
+![HTML5](http://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![HTML5](http://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![HTML5](http://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
+![HTML5](http://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![HTML5](http://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![HTML5](http://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white)
