@@ -9,8 +9,6 @@
 [![Sass Badge](http://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)](#)
 [![JavaScript Badge](http://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)](#)
 [![jQuery Badge](http://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)](#)
-[![GitHub Badge](http://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](#)
-[![GitLab Badge](http://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white)](#)
 
 #### Editor
 [![Visual Studio Code Badge](http://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)](#)
@@ -18,3 +16,7 @@
 
 #### Collaboration Tool
 [![SLACK Badge](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)](#)
+
+#### Configuration tool
+[![GitHub Badge](http://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](#)
+[![GitLab Badge](http://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white)](#)
