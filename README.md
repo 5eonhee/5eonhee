@@ -14,9 +14,16 @@
 [![Visual Studio Code Badge](http://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)](#)
 [![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)](#)
 
+#### Configuration tool
+[![GitHub Badge](http://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](#)
+[![GitLab Badge](http://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white)](#)
+
 #### Collaboration Tool
 [![SLACK Badge](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)](#)
 
 #### Configuration tool
-[![GitHub Badge](http://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](#)
-[![GitLab Badge](http://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white)](#)
+[![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)](#)
+[![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)](#)
+
+#### Blog
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](#)
