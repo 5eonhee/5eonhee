@@ -22,9 +22,9 @@
 [![SLACK Badge](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)](#)
 
 #### Configuration tool
-[![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)](#)
+[![Photoshop Badge](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)](#)
+[![XD Badge](https://img.shields.io/badge/XD-470137?style=for-the-badge&logo=AdobeXD&logoColor=white)](#)
 [![Zeplin Badge](https://img.shields.io/badge/Zeplin-FDBD39?style=for-the-badge&logo=Zeplin&logoColor=white)](#)
-[![Adobe_XD Badge](https://img.shields.io/badge/XD-470137?style=for-the-badge&logo=AdobeXD&logoColor=white)](#)
 [![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)](#)
 
 
