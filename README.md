@@ -21,6 +21,9 @@
 
 #### Collaboration Tool
 [![SLACK Badge](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)](#)
+[![Jira Badge](https://img.shields.io/badge/Jira-004fc6?style=for-the-badge&logo=Jira&logoColor=white)](#)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)](#)
+[![Trello Badge](https://img.shields.io/badge/Trello-0076bd?style=for-the-badge&logo=Trello&logoColor=white)](#)
 
 #### Configuration tool
 [![Photoshop Badge](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)](#)
